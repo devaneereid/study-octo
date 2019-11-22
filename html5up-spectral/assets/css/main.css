@@ -153,7 +153,11 @@ input, select, textarea {
 		color: #fff;
 		font-weight: 600;
 	}
-
+	#banner > div > p > i {
+		font-size: 1.8rem;
+		padding: 10px;
+	}
+	
 	em, i {
 		font-style: italic;
 	}
@@ -3581,7 +3585,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		cursor: default;
-		height: 80vh;
+		height: 91vh;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
